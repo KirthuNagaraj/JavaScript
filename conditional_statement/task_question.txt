@@ -1,0 +1,15 @@
+write a program using conditional statement for the below scenario :
+	1. Based on the time you give, match the below timings to say the below message:
+		Timing     :      Message
+		6 to 11	   :    "Good Morning"
+		12 to 16   :    "Good Afternoon"
+	    17 to 19   :    "Good Evening"
+		20 to 22   :    "Good Night"
+
+	2. And Also throw the below message along with the existing message if the below timing matches:
+		Timing     :      Message
+		  8 	   :    "It's Time 8'O Clock, Go & Have your Breakfast"
+		  13 	   :    "It's Time 1'O Clock, Go & Have your Lunch"
+		  21 	   :    "It's Time 8'O Clock, Go & Have your Dinner"
+
+
